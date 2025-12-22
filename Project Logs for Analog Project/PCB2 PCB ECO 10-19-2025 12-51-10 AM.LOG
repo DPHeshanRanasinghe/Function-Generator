@@ -1,0 +1,30 @@
+Added Component: Designator=U8(ADI-N-8)
+Add component (AddParameter): Name = "Amplifiers Per Package"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.analog.com/en/index.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/AD826.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http:/www.analog.com/static/imported-files/packages/PKG_PDF/PDIP(N)/N_8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "AD826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current"; Value = "3.3uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Voltage"; Value = "500uV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq/Amp"; Value = "7.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C21069"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Dual In-Line Package, Row spacing 7.62 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "070606-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "AD826ANZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = "350V/us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Small Signal Bandwidth"; Value = "50MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "V Span Max"; Value = "36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "V Span Min"; Value = "5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ6_2 Pin=U8-1
+Added Pin To Net: NetName=NetJ6_1 Pin=U8-2
+Added Pin To Net: NetName=NetR5_2 Pin=U8-3
+Added Pin To Net: NetName=-VCC Pin=U8-4
+Added Pin To Net: NetName=+VCC Pin=U8-8
