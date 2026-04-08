@@ -34,3 +34,6 @@ The final system operated successfully and reliably, meeting all functional requ
 ---
 
 **Skills:** Analog Circuit Design, Printed Circuit Board (PCB) Design, Power Electronics, Collaborative Engineering
+
+
+For full details, please refer EN2091___Laboratory_Practice_and_Projects___Analog_Lab_Project_Report.pdf
